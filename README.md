@@ -28,8 +28,8 @@ python connectome_quick.py \
 Spatial permutation can be run with `spatial_permute.m`.
 
 ## References
-SUD atrophy studies: https://doi.org/10.1038/s41398-020-01128-2
-SUD fMRI studies: https://doi.org/10.1002/hbm.25085
-Specificity analysis atrophy studies: https://doi.org/10.1002/hbm.23772
-Nicotine use disorder lesion dataset: https://doi.org/10.7910/DVN/8BHHRS
+- SUD atrophy studies: https://doi.org/10.1038/s41398-020-01128-2
+- SUD fMRI studies: https://doi.org/10.1002/hbm.25085
+- Specificity analysis atrophy studies: https://doi.org/10.1002/hbm.23772
+- Nicotine use disorder lesion dataset: https://doi.org/10.7910/DVN/8BHHRS
 
