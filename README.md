@@ -1,4 +1,4 @@
-# A Transdiagnostic Network for Psychiatric Illness Derived from Atrophy and Lesions. 
+# Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network 
 
 Supporting code for the publication *Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network* (DOI: TBD).
 
@@ -28,6 +28,8 @@ python connectome_quick.py \
 Spatial permutation can be run with `spatial_permute.m`.
 
 ## References
-- Dataset 1: https://doi.org/10.1001/jamapsychiatry.2014.2206
-- Dataset 2: https://doi.org/10.1093/brain/awy292
-- Dataset 4: https://doi.org/10.1038/npp.2010.132
+SUD atrophy studies: https://doi.org/10.1038/s41398-020-01128-2
+SUD fMRI studies: https://doi.org/10.1002/hbm.25085
+Specificity analysis atrophy studies: https://doi.org/10.1002/hbm.23772
+Nicotine use disorder lesion dataset: https://doi.org/10.7910/DVN/8BHHRS
+
