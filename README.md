@@ -27,6 +27,9 @@ python connectome_quick.py \
 ## Spatial permutation
 Spatial permutation can be run with `spatial_permute.m`.
 
+## Overall coordinate network results
+SUD_CNM_FINAL.nii.gz contains the overall substance use disorder coordinate network shown in Figure 5a.
+
 ## References
 - SUD atrophy studies: https://doi.org/10.1038/s41398-020-01128-2
 - SUD fMRI studies: https://doi.org/10.1002/hbm.25085
