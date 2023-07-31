@@ -1,6 +1,6 @@
 # Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network 
 
-Supporting code for for Stubbs et al. (in press). Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network. *Nature Mental Health* (DOI: TBD).
+Supporting code for: Stubbs et al. (in press). Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network. *Nature Mental Health* (DOI: TBD).
 
 ## Environment installation
 It is recommended to use [mamba](https://github.com/mamba-org/mamba) to install the conda environment:
