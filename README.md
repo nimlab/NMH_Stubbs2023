@@ -1,7 +1,7 @@
 # A Transdiagnostic Network for Psychiatric Illness Derived from Atrophy and Lesions. 
 
-The code for our Nature Human Behavior paper *A Transdiagnostic Network for Psychiatric Illness Derived from Atrophy and Lesions* (https://doi.org/10.1038/s41562-022-01501-9).
-(test)
+Supporting code for the publication *Heterogeneous neuroimaging findings across substance use disorders localize to a common brain network* (DOI: TBD).
+
 ## Environment installation
 It is recommended to use [mamba](https://github.com/mamba-org/mamba) to install the conda environment:
 ```
