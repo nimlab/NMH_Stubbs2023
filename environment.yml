@@ -1,4 +1,4 @@
-name: nhb_taylor2023
+name: nmh_stubbs2023
 channels:
   - conda-forge
 dependencies:
