@@ -6,7 +6,7 @@ Supporting code for: Stubbs et al. (in press). Heterogeneous neuroimaging findin
 It is recommended to use [mamba](https://github.com/mamba-org/mamba) to install the conda environment:
 ```
 mamba env create -f environment.yml
-conda activate nhb_taylor2023
+conda activate nmh_stubbs2023
 ```
 ## Preparing the seeds
 `sphere_maker.ipynb` can be used to generate spheres on a template brain from coordinates in a CSV file.
